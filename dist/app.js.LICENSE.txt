@@ -1,0 +1,11 @@
+/*
+object-assign
+(c) Sindre Sorhus
+@license MIT
+*/
+
+/*!
+* @nutui/nutui-taro v3.1.6 Sat Sep 18 2021 15:31:19 GMT+0800 (中国标准时间)
+* (c) 2021 @jdf2e.
+* Released under the MIT License.
+*/
